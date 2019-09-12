@@ -92,7 +92,7 @@ var movieThis = function (movieName) {
 var subject = process.argv[3];
 
 if (transactionType === "do-what-it-says") {
-    var readRandomFile = fs.readFileSync('./random-2.txt','UTF8');
+    var readRandomFile = fs.readFileSync('random-3.txt','UTF8');
     transactionType = readRandomFile.split(',')[0];
     subject = readRandomFile.split(',')[1];
     console.log(readRandomFile.split(','));
