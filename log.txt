@@ -1,0 +1,100 @@
+this is loaded
+Grand Theatre de Quebec
+Quebec, Canada
+2019-10-29T20:00:00
+
+Place des Arts
+Montreal, Canada
+2019-10-30T20:00:00
+
+FirstOntario Concert Hall (Formerly Hamilton Place)
+Hamilton, Canada
+2019-10-31T20:00:00
+
+Roy Thomson Hall
+Toronto, Canada
+2019-11-01T20:00:00
+
+National Arts Centre
+Ottawa, Canada
+2019-11-02T20:00:00
+
+Centre culturel de lUniversité de Sherbrooke - Salle Maurice-OBready
+Sherbrooke, Canada
+2019-11-03T20:00:00
+
+this is loaded
+songname Make Someone Happy
+albumname Jimmy' Durante's Way Of Life
+artist 1 Jimmy Durante
+previewurl https://p.scdn.co/mp3-preview/16f5f5fd826c6596221ddf113d4061230c4c22aa?cid=831f09f8e2744f4195e10ce3bd96a934
+this is loaded
+songname Beyond the Sea
+albumname The Ultimate Bobby Darin
+artist 1 Bobby Darin
+previewurl https://p.scdn.co/mp3-preview/265a0fffe03b363973ddf23f0c8f4e55a3d0b45a?cid=831f09f8e2744f4195e10ce3bd96a934
+this is loaded
+movieTitle Coneheads
+year 1993
+country USA
+actors Robert Knott, Jonathan Penner, Whip Hubley, Dan Aykroyd
+Plot Aliens with conical crania crash-land on Earth.
+language English
+IMDBRating 5.3
+Rotten Tomatoes 5.3/10
+this is loaded
+movieTitle Office Space
+year 1999
+country USA
+actors Ron Livingston, Jennifer Aniston, David Herman, Ajay Naidu
+Plot Three company workers who hate their jobs decide to rebel against their greedy boss.
+language English
+IMDBRating 7.7
+Rotten Tomatoes 7.7/10
+this is loaded
+movieTitle The Twilight Samurai
+year 2002
+country Japan
+actors Hiroyuki Sanada, Rie Miyazawa, Nenji Kobayashi, Ren Osugi
+Plot As the feudal Japan era draws to a close, a widower samurai experiences difficulty balancing 2 young daughters, an aged mother, clan loyalties, and the sudden reappearance of his childhood sweetheart.
+language Japanese
+IMDBRating 8.1
+Rotten Tomatoes 8.1/10
+this is loaded
+[ 'spotify-this-song', 'I Want it That Way' ]
+songname I Want It That Way
+albumname The Hits--Chapter One
+artist 1 Backstreet Boys
+previewurl https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=831f09f8e2744f4195e10ce3bd96a934
+this is loaded
+[ 'movie-this', '"Mr. Nobody"' ]
+movieTitle Mr. Nobody
+year 2009
+country Belgium, Germany, Canada, France, USA, UK
+actors Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Plot A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+language English, Mohawk
+IMDBRating 7.8
+Rotten Tomatoes 7.8/10
+this is loaded
+[ 'concert-this', 'Steve Martin' ]
+Springfield Symphony Hall
+Springfield, United States
+2019-09-12T20:00:00
+
+Saratoga Performing Arts Center
+Saratoga Springs, United States
+2019-09-13T19:30:00
+
+The Palladium 
+Carmel, United States
+2019-09-26T19:30:00
+
+Silver Creek Event Center at Four Winds New Buffalo
+New Buffalo, United States
+2019-09-28T21:00:00
+
+Vista Cocktail Lounge at Caesars Palace
+Las Vegas, United States
+2019-10-06T20:00:00
+

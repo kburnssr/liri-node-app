@@ -44,5 +44,6 @@ Example: ![movie-this](./assets/images/movie-this_TheTwilightSamurai-Coneheads-O
 
 Example: ![do-what-this-says](./assets/images/do-what-it-says.jpg)
 
+Created log.txt file ![log.txt file](./log.txt)
 
 
